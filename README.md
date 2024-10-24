@@ -4,7 +4,7 @@
 ## Master of Science (Physics)
 ## Universitas Indonesia, Depok, West Java, Indonesia
 
-## This'll  be a _Helpful_ Section About the Greek Letter Θ!
+# Thesis title: Quantum Optimal Control of Hybrid Quantum System of Nitrogen-Vacancy Centers and Superconducting Transmons
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
 ## This heading is not unique in the file
