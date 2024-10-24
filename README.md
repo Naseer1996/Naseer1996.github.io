@@ -17,7 +17,7 @@ TEXT 2
 
 # Links to the example headings above
 
-Link to the sample section: [Link Text](#sample-section).
+Link to the first paper: [Optimizing Control of a Hybrid Quantum System of Nitrogen-Vacancy Centers and Superconducting Transmon Qubits](#https://doi.org/10.1088/1742-6596/2866/1/012080).
 
 Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
 
