@@ -1,7 +1,8 @@
 # About Me
 # Quantum Optimal Contorl of Hybrid Quantum Systems
 
-## Sample Section
+## Master of Science (Physics)
+## Universitas Indonesia, Depok, West Java, Indonesia
 
 ## This'll  be a _Helpful_ Section About the Greek Letter Θ!
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
