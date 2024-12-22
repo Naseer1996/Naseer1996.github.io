@@ -1,7 +1,7 @@
 # About Me
-# Quantum Optimal Contorl of Hybrid Quantum Systems
+#
 
-## Master of Science (Physics)
+## I am a Graduate Student recently graduated with CGPA 3.68/4.00 from Faculty of Mathematics and Natural Sciences, Department of Physics, Universitas Indonesia.
 ## Universitas Indonesia, Depok, West Java, Indonesia
 
 # Thesis title: Quantum Optimal Control of Hybrid Quantum System of Nitrogen-Vacancy Centers and Superconducting Transmons
